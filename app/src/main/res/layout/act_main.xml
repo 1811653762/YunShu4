@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1
+        ">
+
+        <LinearLayout
+            android:id="@+id/act_main_contain"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            android:orientation="vertical" />
+
+    </FrameLayout>
+    <!--
+    <RelativeLayout
+        android:id="@+id/act_main_di"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:background="@drawable/s5dikuang"
+        android:gravity="bottom">
+
+
+        <RadioGroup
+            android:id="@+id/cgMain"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:paddingTop="5dp"
+            >
+
+            <RadioButton
+                android:id="@+id/cbHome"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:button="@null"
+                android:checked="true"
+                android:drawableTop="@drawable/bg_act_main_dibu_s1"
+                android:layout_weight="1"/>
+            <RadioButton
+                android:id="@+id/cbKanFang"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:button="@null"
+                android:drawableTop="@drawable/bg_act_main_dibu_s2"
+                android:layout_weight="1"/>
+            <RadioButton
+                android:id="@+id/cbDiscover"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:button="@null"
+                android:drawableTop="@drawable/bg_act_main_dibu_s3"
+                android:layout_weight="1"/>
+        </RadioGroup>
+
+
+
+    </RelativeLayout>
+
+-->
+</LinearLayout>
+

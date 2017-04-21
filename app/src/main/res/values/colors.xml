@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color><!--白色-->
+    <color name="color_main">#0D1B26</color><!--App主色调-->
+    <color name="cyan">#34B5C2</color><!--青色-->
+    <color name="green">#01A738</color><!--绿色-->
+</resources>
